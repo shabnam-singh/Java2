@@ -95,7 +95,7 @@ class MyFrame extends JFrame implements ActionListener {
         add(b_login);
         add(b_fpassword);
         add(showpass);
-        getContentPane().setBackground(Color.YELLOW); 
+        getContentPane().setBackground(Color.CYAN); 
         setResizable(false);
         setSize(580, 420);
         setVisible(true);
